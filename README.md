@@ -13,14 +13,23 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️Typescript
+
 ✔️Node.js
+
 ✔️Express
+
 ✔️Docker
+
 ✔️Typeorm
+
 ✔️PostgreSQL
+
 ✔️Multer
+
 ✔️csv-parse
+
 ✔️Eslint
+
 ✔️Prettier
 
 ## 💻 Projeto
